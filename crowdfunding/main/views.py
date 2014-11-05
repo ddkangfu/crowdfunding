@@ -13,5 +13,5 @@ class IndexView(ListView):
 
 class ProjectDetailView(DetailView):
     template_name = 'main/detail.html'
-    #model = Project
+    model = Project
 
