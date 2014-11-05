@@ -36,6 +36,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'crowdfunding.main',
 )
 
 MIDDLEWARE_CLASSES = (
